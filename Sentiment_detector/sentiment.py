@@ -19,5 +19,5 @@ compound_score = scores['compound']
 
 # print the compound score
 print("The sentiment score of the text is:", compound_score)
-# ajhsas 
+
 
